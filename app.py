@@ -10,6 +10,7 @@ app.secret_key=key
 
 id_pwd = {'lelouch':'vermillion'}
 
+
 #メイン
 @app.route('/')
 def index():
